@@ -1,0 +1,5 @@
+.pt .pth .safetensor 
+
+are "model checkpoint files" which are "saved snapshots of a machine learning or artificial intelligence model at a specific point during its training or fine-tuning process.
+
+fine-tuning - "when you take a pre-trained AI model and continue training it on a smaller, specialized dataset to adapt it for a specific task, tone or industry."
